@@ -1,0 +1,30 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+         Schema::create('grupos_economicos', function (Blueprint $table) {
+            $table->id(); // ID
+            $table->string('nome'); // Nome
+            $table->timestamps(); // Data de criação e última atualização
+        });
+        //
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+         Schema::dropIfExists('grupos_economicos');
+        //
+    }
+};
