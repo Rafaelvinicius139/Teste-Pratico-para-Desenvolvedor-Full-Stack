@@ -1,4 +1,4 @@
-# Sistema de Gestão de Grupo Econômico
+# Teste Prático para Desenvolvedor Full Stack
 
 ## Descrição
 Sistema de gestão para grupos econômicos, permitindo administrar **Grupos, Bandeiras, Unidades e Colaboradores**, gerar relatórios e auditoria.  
