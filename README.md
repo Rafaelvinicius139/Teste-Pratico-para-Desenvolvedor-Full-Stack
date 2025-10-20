@@ -40,6 +40,12 @@ pode registra o usuario e fazer o login
 ou colocar INSERT INTO colaboradores (nome, email, cpf, unidade_id, created_at, updated_at)
 VALUES ('Nome do Usuário', 'usuario@empresa.com', '12345678901', 1, NOW(), NOW()); no mysql 
 
+Gostaria de agradecer pela oportunidade de desenvolver o sistema. Dentro da semana que tivemos, consegui implementar cerca de 80% das funcionalidades. Com um prazo um pouco maior, tenho certeza de que consigo concluir o restante e ainda otimizar algumas partes do código.
+
+Foi um projeto que me envolveu bastante, e eu realmente gostaria de continuar, caso exista essa possibilidade. Estou disposto a finalizar e aprimorar o sistema para deixá-lo totalmente funcional.
+
+Agradeço pela confiança e pela experiência de trabalhar com Laravel em um projeto real — foi um aprendizado muito valioso.
+
 
 
 
